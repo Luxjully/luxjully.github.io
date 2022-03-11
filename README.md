@@ -7,7 +7,5 @@
         <p>This is my second website and im very sad because first website file is gone <b>im very sad :)</b></p>
         <hr>
 
-        <img src="Lambo.jpg" />
-
     </body>
 </html>
